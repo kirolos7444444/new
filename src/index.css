@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #4158D0;
+  background-image: linear-gradient(1deg, #4158D0 0%, #C850C0 46%, #f3983f 100%);
+  
+}
+
